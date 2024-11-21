@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding-top: 30px;
+}
+
+.card {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
